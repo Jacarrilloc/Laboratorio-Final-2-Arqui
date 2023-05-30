@@ -1,5 +1,12 @@
-use admin
+let use;
+use
+let admin;
+admin
 
+let db;
+db.createUser = function (param) {
+
+};
 db.createUser({
   user: "persona_db",
   pwd: "persona_db",

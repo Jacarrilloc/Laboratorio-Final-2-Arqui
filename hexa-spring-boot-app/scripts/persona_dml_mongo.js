@@ -1,5 +1,8 @@
-use prueba_db
+use
+let prueba_db;
+prueba_db
 
+db.persona = undefined;
 db.persona.insertMany([
 	{
 		"_id": NumberInt(123456789),
