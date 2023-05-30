@@ -8,7 +8,7 @@
 		<version>${revision}</version>
   	</parent>
   <groupId>co.edu.javeriana.as.personapp</groupId>
-	<artifactId>mongo-output-adapter</artifactId>
+	<artifactId>mongo-output</artifactId>
   <name>PersonAPP MongoDB Persistence Output Adapter</name>
   <description>MongoDB Persistence Output Adapter for PersonAPP</description>
   <dependencies>

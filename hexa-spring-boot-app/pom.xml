@@ -38,9 +38,9 @@
 		<module>common</module>
 		<module>domain</module>
 		<module>application</module>
-		<module>maria-output-adapter</module>
-		<module>mongo-output-adapter</module>
-		<module>rest-input-adapter</module>
+		<module>maria-output</module>
+		<module>mongo-output</module>
+		<module>rest-input</module>
 		<module>cli-input-adapter</module>
 	</modules>
 	<dependencies>

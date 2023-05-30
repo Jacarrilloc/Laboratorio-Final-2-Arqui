@@ -8,7 +8,7 @@
 		<version>${revision}</version>
 	</parent>
 	<groupId>co.edu.javeriana.as.personapp</groupId>
-	<artifactId>rest-input-adapter</artifactId>
+	<artifactId>rest-input</artifactId>
 	<name>PersonAPP REST Input Adapter</name>
 	<description>REST API Input Adapter for PersonAPP</description>
 	<dependencies>
@@ -19,12 +19,12 @@
 		</dependency>
 		<dependency>
 			<groupId>co.edu.javeriana.as.personapp</groupId>
-			<artifactId>maria-output-adapter</artifactId>
+			<artifactId>maria-output</artifactId>
 			<version>${revision}</version>
 		</dependency>
 		<dependency>
 			<groupId>co.edu.javeriana.as.personapp</groupId>
-			<artifactId>mongo-output-adapter</artifactId>
+			<artifactId>mongo-output</artifactId>
 			<version>${revision}</version>
 		</dependency>		
 		<dependency>

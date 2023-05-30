@@ -23,12 +23,12 @@
 		</dependency>
 		<dependency>
 			<groupId>co.edu.javeriana.as.personapp</groupId>
-			<artifactId>maria-output-adapter</artifactId>
+			<artifactId>maria-output</artifactId>
 			<version>${revision}</version>
 		</dependency>
 		<dependency>
 			<groupId>co.edu.javeriana.as.personapp</groupId>
-			<artifactId>mongo-output-adapter</artifactId>
+			<artifactId>mongo-output</artifactId>
 			<version>${revision}</version>
 		</dependency>
 		<dependency>

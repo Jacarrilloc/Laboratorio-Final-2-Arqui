@@ -8,7 +8,7 @@
 		<version>${revision}</version>
 	</parent>
 	<groupId>co.edu.javeriana.as.personapp</groupId>
-	<artifactId>maria-output-adapter</artifactId>
+	<artifactId>maria-output</artifactId>
 	<name>PersonAPP MariaDB Persistence Output Adapter</name>
 	<description>MariaDB Persistence Output Adapter for PersonAPP</description>
 	<dependencies>
